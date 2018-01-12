@@ -16,4 +16,7 @@
     <string name="answer04_1">2015</string>
     <string name="answer04_2">2016</string>
     <string name="answer04_3">2017</string>
+    <string name="question06_1">Die Canoe</string>
+    <string name="question06_2">Weltmeisterschaften 2017 fanden in Pau, Frankreich statt.</string>
+    <string name="answer06">Slalom</string>
 </resources>

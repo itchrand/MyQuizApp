@@ -18,6 +18,12 @@
         <item name="android:textSize">12sp</item>
     </style>
 
+    <style name="RadioButtonsPictures" parent="AppTheme">
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
     <!-- Headerlines -->
     <style name="HeaderTextStyle" parent="AppTheme">
         <item name="android:textAllCaps">true</item>

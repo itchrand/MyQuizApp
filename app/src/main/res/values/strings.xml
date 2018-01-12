@@ -21,4 +21,8 @@
     <string name="answer05_1">a)</string>
     <string name="answer05_2">b)</string>
     <string name="answer05_3">c)</string>
+    <string name="question06_1">The Canoe</string>
+    <string name="question06_2">Worldchampionships 2017 were held at Pau in France.</string>
+    <string name="answer06">Slalom</string>
+    <string name="question07">Which picture was taken at xyz?</string>
 </resources>

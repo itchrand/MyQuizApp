@@ -16,4 +16,7 @@
     <string name="answer04_1">2015</string>
     <string name="answer04_2">2016</string>
     <string name="answer04_3">2017</string>
+    <string name="question06_1">Il campionato mondiale di canoa</string>
+    <string name="question06_2">del 2017 si disputava a Pau in Francia.</string>
+    <string name="answer06">slalom</string>
 </resources>
