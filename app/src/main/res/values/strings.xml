@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">MyQuizApp</string>
-    <string name="submit">Submit Answers</string>
+    <string name="submitAnswers">Submit Answers</string>
+    <string name="answerQuestions">Answer the following questions:</string>
+    <string name="question01">1.) Sjusjoen is a place in which country?</string>
+    <string name="answer01">Norway</string>
+    <string name="hintEnterText">Enter your answer here.</string>
+    <string name="question02">2.) Obertilliach is a place in which country?</string>
+    <string name="answer02_1">Norway</string>
+    <string name="answer02_2">Italy</string>
+    <string name="answer02_3">Germany</string>
+    <string name="answer02_4">Switzerland</string>
+    <string name="answer02_5">Austria</string>
+    <string name="question03">3.) In which country was this picture taken?</string>
+    <string name="answer03">Costa Rica</string>
 </resources>

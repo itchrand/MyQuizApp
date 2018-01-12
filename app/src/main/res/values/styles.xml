@@ -12,6 +12,11 @@
     <style name="Buttons" parent="AppTheme">
         <item name="colorButtonNormal">#CCFF90</item>
     </style>
+    <style name="RadioButtons" parent="AppTheme">
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
 
     <!-- Headerlines -->
     <style name="HeaderTextStyle" parent="AppTheme">
@@ -20,6 +25,20 @@
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">48dp</item>
         <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="SubHeaderTextStyle" parent="AppTheme">
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="BodyTextStyle" parent="AppTheme">
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">12sp</item>
         <item name="android:gravity">center_vertical</item>
     </style>
 </resources>

@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MyQuizApp</string>
-    <string name="submit">Antworten abschicken</string>
+    <string name="submitAnswers">Antworten abschicken</string>
+    <string name="answerQuestions">Beantworten Sie die folgenden Fragen:</string>
+    <string name="question01">1.) Sjusjoen liegt in welchem Land?</string>
+    <string name="hintEnterText">Ihre Antwort hier.</string>
+    <string name="question02">2.) Oberilliach ist eine Ortschaft in welchem Land?</string>
+    <string name="answer02_1">Norwegen</string>
+    <string name="answer02_2">Italien</string>
+    <string name="answer02_3">Deutschland</string>
+    <string name="answer02_4">Schweiz</string>
+    <string name="answer02_5">Österreich</string>
+    <string name="question03">3.) In welchem Land entstand dieses Photo?</string>
 </resources>

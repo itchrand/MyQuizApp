@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MyQuizApp</string>
-    <string name="submit">Inviare le risposte</string>
+    <string name="submitAnswers">Inviare le risposte</string>
+    <string name="answerQuestions">Rispondete alle domande seguenti:</string>
+    <string name="question01">1.) In che paese si trova Sjusjoen?</string>
+    <string name="hintEnterText">La Vostra risposta.</string>
+    <string name="question02">2.) Il luogo Obertilliach si trova in che paese?</string>
+    <string name="answer02_1">Norwegia</string>
+    <string name="answer02_2">Italia</string>
+    <string name="answer02_3">Germania</string>
+    <string name="answer02_4">Svizzera</string>
+    <string name="answer02_5">Austria</string>
+    <string name="question03">3.) In che paese è stata scattata questa foto?</string>
 </resources>
