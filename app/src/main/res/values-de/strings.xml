@@ -12,4 +12,8 @@
     <string name="answer02_4">Schweiz</string>
     <string name="answer02_5">Österreich</string>
     <string name="question03">3.) In welchem Land entstand dieses Photo?</string>
+    <string name="question04">In welchem Jahr fand der erste IBU Cup in Lenzerheide statt?</string>
+    <string name="answer04_1">2015</string>
+    <string name="answer04_2">2016</string>
+    <string name="answer04_3">2017</string>
 </resources>

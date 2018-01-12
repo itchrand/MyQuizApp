@@ -13,4 +13,12 @@
     <string name="answer02_5">Austria</string>
     <string name="question03">3.) In which country was this picture taken?</string>
     <string name="answer03">Costa Rica</string>
+    <string name="question04">At Lenzerheide the first IBU Cup was held in?</string>
+    <string name="answer04_1">2015</string>
+    <string name="answer04_2">2016</string>
+    <string name="answer04_3">2017</string>
+    <string name="question05">The picture was taken at?</string>
+    <string name="answer05_1">a)</string>
+    <string name="answer05_2">b)</string>
+    <string name="answer05_3">c)</string>
 </resources>

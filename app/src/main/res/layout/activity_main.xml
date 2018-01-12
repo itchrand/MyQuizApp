@@ -100,6 +100,88 @@
                 android:inputType="textCapWords"/>
         </LinearLayout>
 
+        <TextView
+            android:id="@+id/question04"
+            style="@style/BodyTextStyle"
+            android:text="@string/question04"/>
+
+        <RadioGroup
+            android:id="@+id/answer04_radiogroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/answer04_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/answer04_1"
+                android:theme="@style/RadioButtons"/>
+
+            <RadioButton
+                android:id="@+id/answer04_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/answer04_2"
+                android:theme="@style/RadioButtons"/>
+
+            <RadioButton
+                android:id="@+id/answer04_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/answer04_3"
+                android:theme="@style/RadioButtons"/>
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/question05"
+            style="@style/BodyTextStyle"
+            android:text="@string/question05"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="150sp"
+                android:layout_height="120sp"
+                android:padding="8dp"
+                android:src="@drawable/question05_picture"
+                android:scaleType="centerInside"/>
+
+            <RadioGroup
+                android:id="@+id/answer05_radiogroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/answer05_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/answer05_1"
+                    android:theme="@style/RadioButtons"/>
+
+                <RadioButton
+                    android:id="@+id/answer05_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/answer05_2"
+                    android:theme="@style/RadioButtons"/>
+
+                <RadioButton
+                    android:id="@+id/answer05_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/answer05_3"
+                    android:theme="@style/RadioButtons"/>
+
+            </RadioGroup>
+
+        </LinearLayout>
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

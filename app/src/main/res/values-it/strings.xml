@@ -12,4 +12,8 @@
     <string name="answer02_4">Svizzera</string>
     <string name="answer02_5">Austria</string>
     <string name="question03">3.) In che paese è stata scattata questa foto?</string>
+    <string name="question04">In che anno la prima coppa IBU è stata svolta?</string>
+    <string name="answer04_1">2015</string>
+    <string name="answer04_2">2016</string>
+    <string name="answer04_3">2017</string>
 </resources>
