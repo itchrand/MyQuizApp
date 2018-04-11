@@ -6,11 +6,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="it.seahawk.myquizapp.MainActivity">
+    tools:context="it.chrand.myquizapp.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="vertical">
 
         <TextView
@@ -213,6 +213,8 @@
 
             <RadioButton
                 android:id="@+id/answer07_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:drawableRight="@drawable/answer07_1_picture"
                 android:theme="@style/RadioButtonsPictures">
             </RadioButton>
