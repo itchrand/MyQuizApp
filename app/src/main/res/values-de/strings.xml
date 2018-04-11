@@ -12,11 +12,21 @@
     <string name="answer02_4">Schweiz</string>
     <string name="answer02_5">Österreich</string>
     <string name="question03">3.) In welchem Land entstand dieses Photo?</string>
-    <string name="question04">In welchem Jahr fand der erste IBU Cup in Lenzerheide statt?</string>
+    <string name="question04">4.) In welchem Jahr fand der erste IBU Cup in Lenzerheide statt?</string>
     <string name="answer04_1">2015</string>
     <string name="answer04_2">2016</string>
     <string name="answer04_3">2017</string>
-    <string name="question06_1">Die Canoe</string>
+    <string name="question06_1">6.) Die Canoe ______ Weltmeisterschaften 2017 fanden in Pau, Frankreich statt.</string>
     <string name="question06_2">Weltmeisterschaften 2017 fanden in Pau, Frankreich statt.</string>
     <string name="answer06">Slalom</string>
+    <string name="question05">5.) Das Photo wurde wo aufgenommen?</string>
+    <string name="question07">7.) Welches Photo wurde in Cunovo aufgenommen?</string>
+    <string name="question08">8.) Welche Tore sind im Bild zu sehen?</string>
+    <string name="question09">9.) Troja, am Fluss Moldau, ist ein Stadteil von welcher Stadt?</string>
+    <string name="question10">10.) Welche Rennen sind keine Biathlon Rennen?</string>
+    <string name="answer10_1">Sprint</string>
+    <string name="answer10_2">Skiathlon</string>
+    <string name="answer10_3">Massenstart</string>
+    <string name="answer10_5">Verfolgung</string>
+    <string name="answer10_4">Parallel Slalom</string>
 </resources>

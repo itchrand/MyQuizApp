@@ -1,4 +1,4 @@
-package it.seahawk.myquizapp
+package it.chrand.myquizapp
 
 import org.junit.Test
 

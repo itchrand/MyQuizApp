@@ -12,11 +12,21 @@
     <string name="answer02_4">Svizzera</string>
     <string name="answer02_5">Austria</string>
     <string name="question03">3.) In che paese è stata scattata questa foto?</string>
-    <string name="question04">In che anno la prima coppa IBU è stata svolta?</string>
+    <string name="question04">4.) In che anno la prima coppa IBU è stata svolta?</string>
     <string name="answer04_1">2015</string>
     <string name="answer04_2">2016</string>
     <string name="answer04_3">2017</string>
-    <string name="question06_1">Il campionato mondiale di canoa</string>
+    <string name="question06_1">6.) Il campionato mondiale di canoa ______ del 2017 si disputava a Pau in Francia.</string>
     <string name="question06_2">del 2017 si disputava a Pau in Francia.</string>
     <string name="answer06">slalom</string>
+    <string name="question05">5.) Dove è stata ripresa questa foto?</string>
+    <string name="question07">7.) Quale foto è stata ripresa a Cunovo?</string>
+    <string name="question08">8.) Che porte sono da vedere nella foto?</string>
+    <string name="question09">9.) Troja, situata al fiume Vltava, è un distretto di che città?</string>
+    <string name="question10">10.) Che gare non fanno parte di Biathlon?</string>
+    <string name="answer10_1">Sprint</string>
+    <string name="answer10_2">Skiathlon</string>
+    <string name="answer10_3">Partenza di massa</string>
+    <string name="answer10_5">Inseguimento</string>
+    <string name="answer10_4">Slalom parallelo</string>
 </resources>
