@@ -83,11 +83,11 @@ class MainActivity : AppCompatActivity() {
             questionsToLookAt += (if (questionsToLookAt == "") "" else ", ") + "7.)"
 
         // question 8.)
-        checkBox1 = findViewById<RadioButton>(R.id.answer08_1) as CheckBox
-        checkBox2 = findViewById<RadioButton>(R.id.answer08_2) as CheckBox
-        checkBox3 = findViewById<RadioButton>(R.id.answer08_3) as CheckBox
-        checkBox4 = findViewById<RadioButton>(R.id.answer08_4) as CheckBox
-        checkBox5 = findViewById<RadioButton>(R.id.answer08_5) as CheckBox
+        checkBox1 = findViewById<CheckBox>(R.id.answer08_1) as CheckBox
+        checkBox2 = findViewById<CheckBox>(R.id.answer08_2) as CheckBox
+        checkBox3 = findViewById<CheckBox>(R.id.answer08_3) as CheckBox
+        checkBox4 = findViewById<CheckBox>(R.id.answer08_4) as CheckBox
+        checkBox5 = findViewById<CheckBox>(R.id.answer08_5) as CheckBox
         if (!checkBox1.isChecked && !checkBox2.isChecked && checkBox3.isChecked && !checkBox4.isChecked && checkBox5.isChecked)
             countRightAnswers++
         else
@@ -102,11 +102,11 @@ class MainActivity : AppCompatActivity() {
             questionsToLookAt += (if (questionsToLookAt == "") "" else ", ") + "9.)"
 
         // question 10.)
-        checkBox1 = findViewById<RadioButton>(R.id.answer10_1) as CheckBox
-        checkBox2 = findViewById<RadioButton>(R.id.answer10_2) as CheckBox
-        checkBox3 = findViewById<RadioButton>(R.id.answer10_3) as CheckBox
-        checkBox4 = findViewById<RadioButton>(R.id.answer10_4) as CheckBox
-        checkBox5 = findViewById<RadioButton>(R.id.answer10_5) as CheckBox
+        checkBox1 = findViewById<CheckBox>(R.id.answer10_1) as CheckBox
+        checkBox2 = findViewById<CheckBox>(R.id.answer10_2) as CheckBox
+        checkBox3 = findViewById<CheckBox>(R.id.answer10_3) as CheckBox
+        checkBox4 = findViewById<CheckBox>(R.id.answer10_4) as CheckBox
+        checkBox5 = findViewById<CheckBox>(R.id.answer10_5) as CheckBox
         if (!checkBox1.isChecked && checkBox2.isChecked && !checkBox3.isChecked && checkBox4.isChecked && !checkBox5.isChecked)
             countRightAnswers++
         else
