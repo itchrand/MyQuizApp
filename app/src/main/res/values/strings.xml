@@ -39,4 +39,6 @@
     <string name="answer05_1">Rupolding Biathlon Arena</string>
     <string name="answer05_3">DKB Ski Arena Oberhof</string>
     <string name="answer08_5">1, 2, 3</string>
+    <string name="well_done">Great! Well done!</string>
+    <string name="not_well_done">"You have to correct the answers to following questions: "</string>
 </resources>

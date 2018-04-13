@@ -29,4 +29,17 @@
     <string name="answer10_3">Massenstart</string>
     <string name="answer10_5">Verfolgung</string>
     <string name="answer10_4">Parallel Slalom</string>
+    <string name="answer09">Prag</string>
+    <string name="answer08_1">1, 2, 3, 4</string>
+    <string name="answer08_2">1, 2, 3, 5</string>
+    <string name="answer08_3">4, 5</string>
+    <string name="answer08_4">"11, 12, 13, 14, "</string>
+    <string name="answer05_2">Veltins Arena Gelsenkirchen</string>
+    <string name="answer03">Costa Rica</string>
+    <string name="answer01">Norwegen</string>
+    <string name="answer05_1">Rupolding Biathlon Arena</string>
+    <string name="answer05_3">DKB Ski Arena Oberhof</string>
+    <string name="answer08_5">1, 2, 3</string>
+    <string name="well_done">Super! Gut gemacht!</string>
+    <string name="not_well_done">"Sie müssen die Antworten zu folgenden Fragen korrigieren: "</string>
 </resources>
